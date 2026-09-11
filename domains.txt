@@ -27,3 +27,7 @@ imasdk.googleapis.com
 dai.google.com
 ssl.p.jwpcdn.com
 mssl.fwmrm.net
+i.instagram.com
+connect.facebook.net
+graph.facebook.com
+vk.com/rtrg
